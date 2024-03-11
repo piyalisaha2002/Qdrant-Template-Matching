@@ -28,7 +28,6 @@ The project capitalizes on the capabilities of the ResNet-101 architecture for f
 - Qdrant (vector search engine)
 - Image processing libraries (e.g., OpenCV)
 
-
 ## Running the Program
 
 1. Ensure that the input images are available and preprocessed (if necessary).
